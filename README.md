@@ -1,1 +1,4 @@
 # Pl-SQL-Project-Zensar
+Name : Wadekar Atharv Vinayak
+Year : T.E Computer Engineering
+Desceription:The Live Cricket Score Tracking System is a PL/SQL-based project designed to manage and display real-time cricket match scores. The system leverages the capabilities of PL/SQL to efficiently handle large volumes of data related to players, teams, matches, and scores. It provides a user-friendly interface to input and retrieve match details dynamicallyThe Live Cricket Score Tracking System is a PL/SQL-based project designed to manage and display real-time cricket match scores. The system leverages the capabilities of PL/SQL to efficiently handle large volumes of data related to players, teams, matches, and scores. It provides a user-friendly interface to input and retrieve match details dynamically.
